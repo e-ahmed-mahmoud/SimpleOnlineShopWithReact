@@ -1,9 +1,14 @@
 SimpleOnlineShopWithReact
+
 simple online shop site using React.js and fake API server using json-server with local data in json file
-#using JS libs:
+
+#used JS libs:
+
  react-router-dom => for routing 
- react-toastify => for styling user prompt messages
- json-server fakedb.json => as fake server API (change localhost port to run beside npm live server)  //json-server db.json -p portNumber 
+
+react-toastify => for styling user prompt messages
+
+json-server fakedb.json => as fake server API (change localhost port to run beside npm live server)  //json-server db.json -p portNumber 
  
 
 # Getting Started with Create React App
